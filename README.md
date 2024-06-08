@@ -72,4 +72,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ## ScreenShots
 
-[App Screenshot](src/assets/shot1.png)
+![screenshot](src/assets/shot1.png)
